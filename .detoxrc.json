@@ -1,0 +1,14 @@
+{
+  "artifacts": {
+    "rootDir": ".artifacts",
+    "pathBuilder": "./detox/pathbuilder.js",
+    "plugins": {
+      "log": { "enabled": true }
+    }
+  },
+  "testRunner": "jest",
+  "runnerConfig": "detox.test.config.js",
+  "configurations": {
+    
+  }
+}
